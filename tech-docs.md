@@ -3,6 +3,7 @@ layout: default
 title: "Tech Docs"
 permalink: /tech-docs/
 ---
+{% include nav.html %}
 
 # Tech Docs
 ## Welcome to GitHub Pages
