@@ -1,7 +1,7 @@
 ---
 layout: default
-page name: "Tech Docs"
-path: /tech-docs/
+title: "Tech Docs"
+permalink: /tech-docs/
 ---
 
 # Tech Docs
